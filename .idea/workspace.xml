@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e79a5ffc-6ad7-4b47-b822-f42af9527ab8" name="Default" comment="简单的python之django" />
+    <list default="true" id="e79a5ffc-6ad7-4b47-b822-f42af9527ab8" name="Default" comment="简单的python之django">
+      <change beforePath="$PROJECT_DIR$/rbac/使用文档.py" beforeDir="false" afterPath="$PROJECT_DIR$/rbac/使用文档.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,11 +146,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stark/templates/layout.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="212">
               <caret line="77" column="27" lean-forward="true" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rbac/使用文档.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -211,7 +222,6 @@
         <option value="$PROJECT_DIR$/web/stark.py" />
         <option value="$PROJECT_DIR$/web/templates/attendance_view.html" />
         <option value="$PROJECT_DIR$/web/templates/attendance.html" />
-        <option value="$PROJECT_DIR$/rbac/使用文档.py" />
         <option value="$PROJECT_DIR$/web/views/account.py" />
         <option value="$PROJECT_DIR$/web/views/base.py" />
         <option value="$PROJECT_DIR$/web/views/public_customer.py" />
@@ -239,6 +249,7 @@
         <option value="$PROJECT_DIR$/rbac/templates/layout.html" />
         <option value="$PROJECT_DIR$/web/templates/login.html" />
         <option value="$PROJECT_DIR$/stark/templates/layout.html" />
+        <option value="$PROJECT_DIR$/rbac/使用文档.py" />
       </list>
     </option>
   </component>
@@ -292,6 +303,11 @@
             <path>
               <item name="luffy_crm" type="b2602c69:ProjectViewProjectNode" />
               <item name="luffy_crm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luffy_crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luffy_crm" type="462c0819:PsiDirectoryNode" />
+              <item name="rbac" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -407,7 +423,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544624334576</updated>
-      <workItem from="1585805416423" duration="9456000" />
+      <workItem from="1585805416423" duration="10244000" />
     </task>
     <task id="LOCAL-00001" summary="简单的python之django">
       <created>1585813901428</created>
@@ -420,12 +436,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9456000" />
+    <option name="totallyTimeSpent" value="10244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" order="0" visible="true" weight="0.23257373" />
+      <window_info active="true" id="Project" order="0" visible="true" weight="0.23257373" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.32956153" />
@@ -439,7 +456,7 @@
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2733711" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2733711" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.3286119" />
       <window_info anchor="bottom" id="manage.py@luffy_crm" order="14" weight="0.3580858" />
@@ -688,13 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rbac/使用文档.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="108" column="85" lean-forward="true" selection-start-line="108" selection-start-column="85" selection-end-line="108" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rbac/views/user.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -833,6 +843,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
           <caret line="77" column="27" lean-forward="true" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/使用文档.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>

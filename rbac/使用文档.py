@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 """
+登录用户名:liudeyou  密码:123
 RBAC组件的使用文档
 
 1. 将rbac组件拷贝项目。
